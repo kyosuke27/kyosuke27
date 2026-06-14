@@ -9,8 +9,4 @@ I'M Mopbile Engineer in Tokyo
 - **Frameworks**: SwiftUI,Jetpack Compose
 - **Tools**: XCode, Android Sdudiok, Git, Docker
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyosuke Noguchi&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kyosuke Noguchi&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kyosuke Noguchi&theme=juicyfresh&no-bg=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyosuke Noguchi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
