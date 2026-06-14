@@ -9,7 +9,7 @@ I'M Mopbile Engineer in Tokyo
 - **Frameworks**: SwiftUI,Jetpack Compose
 - **Tools**: XCode, Android Sdudiok, Git, Docker
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyosuke27&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyosuke27&show_icons=true&commits_year=2026)
 
 <picture>
 
