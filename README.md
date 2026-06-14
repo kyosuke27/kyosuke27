@@ -9,7 +9,8 @@ I'M Mopbile Engineer in Tokyo
 - **Frameworks**: SwiftUI,Jetpack Compose
 - **Tools**: XCode, Android Sdudiok, Git, Docker
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyosuke27&show=prs_merged,prs_merged_percentage&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyosuke27&show_icons=true)
+
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
